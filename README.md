@@ -1,9 +1,9 @@
-# Easy-Shooter-Steam-Cheat-Table  
+# Easy-Shooter-Steam-Cheat-Table(Cheat-Engine)  
   
 <b>Easy Shooter Cheat Table</b>  
 ![EasyShooter](https://i.imgur.com/LsDUdJf.png)  
   
-<b>Discription</b>  
+<b>Discription:</b>  
 -Easy Shooter : Just a folder.  
 --Freeze Match Time: Stops the match from ending.  
 --God Mode : Never Die.  
